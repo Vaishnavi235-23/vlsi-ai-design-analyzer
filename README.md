@@ -1,4 +1,4 @@
-\ VLSI AI Design Analyzer
+VLSI AI Design Analyzer
 
 
 
@@ -6,7 +6,7 @@ End-to-end AI-powered platform for VLSI design analysis.
 
 
 
-\Features
+Features
 
 \- RTL-based PPA prediction (Power, Performance, Area)
 
@@ -20,7 +20,7 @@ End-to-end AI-powered platform for VLSI design analysis.
 
 
 
-\ Tech Stack
+ Tech Stack
 
 \- Frontend: React
 
@@ -32,7 +32,7 @@ End-to-end AI-powered platform for VLSI design analysis.
 
 
 
-\## Status
+Status
 
 Core system completed. Cloud deployment planned.
 
