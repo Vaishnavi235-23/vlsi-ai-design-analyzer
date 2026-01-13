@@ -5,13 +5,14 @@ __pycache__/
 
 # Node
 node_modules/
-build/
 
-# ML Models & Data
+# ML models & data
 *.pth
 *.csv
 layout_images/
 opencores_rtl/
+uploads/
 
 # OS
 .DS_Store
+Thumbs.db
