@@ -1,0 +1,17 @@
+# Python
+virtual/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+build/
+
+# ML Models & Data
+*.pth
+*.csv
+layout_images/
+opencores_rtl/
+
+# OS
+.DS_Store
